@@ -1,0 +1,6 @@
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\obj\Debug\ServiceClient.csprojAssemblyReference.cache
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\XIAOMI\Downloads\WCF-Web-Service\WCF-Web-Service-master\src\ServiceClient\obj\Debug\ServiceClient.pdb
